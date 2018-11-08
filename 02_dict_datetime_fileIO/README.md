@@ -6,6 +6,7 @@
 
 * Use Git to pull down repos
 * Use Git to merge master branch to own branch
+* Create pull requests
 * Use the Command Line to Navigate the terminal
 * Assign a dictionary to a variable
 * Navigate a dictionary
