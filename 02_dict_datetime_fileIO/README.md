@@ -13,6 +13,7 @@
 * Use the datetime library
 * Use the File I/O library
 * Use Recursion
+* Do Exercises
 
 ---
 ### Context
