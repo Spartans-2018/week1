@@ -4,6 +4,8 @@
 ##### Objective 1
 #### New Line
 
+### New Line 1
+
 * Write a function that will take a string as an argument
 * The function will return the string after removing all the `consecutive` duplicates
 
